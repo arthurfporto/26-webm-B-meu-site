@@ -14,8 +14,8 @@ body {
 }
 
 header {
-  background-color: #1a1a2e;
-  color: white;
+  background-color: #eeff00;
+  color: rgb(108, 0, 104);
   padding: 2rem;
   border-radius: 8px;
   margin-bottom: 1.5rem;
